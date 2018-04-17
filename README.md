@@ -2,7 +2,7 @@
 
 ### Instrucciones: 
 * Clona en tu computadora este repositorio.
-* En la rama master encontraras una estructura de HTML sin clases y estilos, sobre la que puedes trabajar durante el repaso.
+* En la rama master encontraras una estructura de HTML sin selectores ni estilos, sobre la que puedes trabajar durante el repaso.
 * Si quieres ver el solucionario averigua **¿Cómo moverme entre ramas de git?** el solucionario está en la rama **repasogdl1** 
 ### Objetivos
 

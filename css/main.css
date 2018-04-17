@@ -1,28 +1,12 @@
 body {
-    background-color: #acacac;
-    box-sizing: border-box;
-    padding: 0em;
-    margin: 0em;
 }
 header,footer{
-    text-align: center;
-    background: #666666;
-    color: white;
-    height: 20vh;
-    vertical-align: middle;
-    margin: 0;
-    display: block;
 }
 h1,h2{
-    margin: 0%;
 }
 main{
-    width: 100%;
-    height: 60vh;
-    text-align: center;
 }
 header{
-    margin: 0;
 }
 .row{
     width: 100%;
@@ -31,13 +15,6 @@ header{
     display: block;
 }
 .column {
-    width: 40%;
-    height: 24vh;
-    display: inline-block;
-    background-color: #BB4B3B;
-    color: floralwhite;
-    margin: 0.2em 0.2em;
 }
 #footer {
-    font-family: sans-serif;
 }

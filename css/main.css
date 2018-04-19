@@ -1,20 +1,53 @@
-/* body {
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body {
+	box-sizing: border-box;
+	font-family: "Roboto", sans-serif;
+	padding: 0;
+	margin: 0;
 }
 header,footer{
+	background-color: gray;
+	text-align: center;
+	margin: 0;
+	display: block;
 }
+
 h1,h2{
+	margin: 0;
 }
 main{
 }
 header{
+	color: white;
+	height: 10vh; 
+	padding-top: 4%;
 }
+span{
+	text-align: center;
+}
+/*.middle{
+	margin-top: 60px;
+}*/
 .row{
-    width: 100%;
-    height: 25vh;
-    text-align: center;
     display: block;
+    width: 100%;
+    height: auto;
+    text-align: center;
+
 }
 .column {
+	background-color: salmon;
+	display: inline-block;
+	height: 20vh;
+	width: 49%;
+	text-align: center;
+	font-size: 24px;
+	margin: 0.2em 0.2em;
+	padding-top: 5%;
 }
 #footer {
-} */
+	height: 7vh;
+	padding-top: 2%;
+	text-transform: uppercase;
+} 

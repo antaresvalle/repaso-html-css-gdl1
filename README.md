@@ -13,4 +13,4 @@
 * Hacer una pequeña maqueta de ejemplo con las propiedades de BOX MODEL de CSS
 
 Presentación del repaso:
-[PDF](https://drive.google.com/open?id=1dtiwUxHpVbMk3_4hoelQon1eDwMBdsR-)
+[PDF](https://drive.google.com/file/d/1dtiwUxHpVbMk3_4hoelQon1eDwMBdsR-/view)
